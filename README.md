@@ -1,2 +1,3 @@
 # mmix
-Official Repository of M-Mix
+Official Repository of Paper "M-Mix: Pattern-wise Missing Mix for Multivariate Time-series Missing Value Imputation"
+
