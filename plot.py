@@ -4,8 +4,8 @@ plt.rc('font', family='Times New Roman', size=16)
 
 # dataset = 'PEMS-BAY'
 dataset = 'SeattleCycle'
-# pattern = 'PatternB' # METR-LA
-pattern = 'PatternC' # PM2.5
+# pattern = 'PatternA' # METR-LA
+pattern = 'PatternB' # PM2.5
 
 models = ['bilstm', 'bigru', 'bitcn', 'brits']
 augs   = ['none', 'unif', 'temp', 'spat', 'spat_temp', 'mmix']
